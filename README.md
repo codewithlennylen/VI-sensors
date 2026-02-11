@@ -22,6 +22,12 @@ Library Used: ACS712-driver by Ransky3000
 https://github.com/Ransky3000/ACS712-driver
 
 
+#### ZMCT103C Current Sensor Module
+
+Measures AC currents up to 5A
+
+Reference: https://electropeak.com/learn/interfacing-zmct103c-5a-ac-current-transformer-module-with-arduino/
+
 
 ### DC Sensors
 
