@@ -32,3 +32,6 @@ https://github.com/Ransky3000/ACS712-driver
 #### Generic Voltage Sensor Module
 
 Reference: https://robu.in/wp-content/uploads/2017/05/datasheet1.pdf
+
+<img width="359" height="232" alt="Screenshot from 2026-02-11 10-04-50" src="https://github.com/user-attachments/assets/c9f61c7d-3abd-43df-855a-93dd7d28bd70" />
+
